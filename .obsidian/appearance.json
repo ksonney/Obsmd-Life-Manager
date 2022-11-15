@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "banner"
-  ]
+  ],
+  "accentColor": ""
 }

@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "44f4832e5484373f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebbef1cdef76179c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a13745e9e97d1459",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Action/01 Tasks/01 Tasks.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "f87b28dfd4338253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64b037a330b673e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Guide/Quick Start.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e33380e53a3182d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "61cef96a664d8557",
+        "type": "tabs",
+        "dimension": 55.49853372434017,
+        "children": [
+          {
+            "id": "d6300da5d0e1f0c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "080d9784a2a14720",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8cfe544020051c0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8f2ff99843a19150",
+        "type": "tabs",
+        "dimension": 44.50146627565982,
+        "children": [
+          {
+            "id": "856979b6214bb80f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe67485288c71cbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6c645e36fe025a2",
+        "type": "tabs",
+        "dimension": 71.55425219941348,
+        "children": [
+          {
+            "id": "dcaa2e4e44144a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Action/01 Tasks/01 Tasks.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "551dd6ceb59c778b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 Guide/Quick Start.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6084d959b6f01e01",
+        "type": "tabs",
+        "dimension": 28.44574780058651,
+        "children": [
+          {
+            "id": "0b3c00f50d062893",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 501.5,
+    "collapsed": true
+  },
+  "active": "64b037a330b673e8",
+  "lastOpenFiles": [
+    "06 Guide/Quick Start.md",
+    "README.md",
+    "Home.md",
+    "02 Action/01 Tasks/01 Tasks.md",
+    "03 Periodic/01 Daily/2022/02-February/2022-02-28.md",
+    "02 Action/02 Action.md",
+    "03 Periodic/01 Daily/2022/03-March/2022-03-01.md",
+    "04 Templates/Daily Template.md",
+    "06 Guide/Daily Note.md",
+    "02 Action/02 Projects/Build OLM Repo.md"
+  ]
+}
