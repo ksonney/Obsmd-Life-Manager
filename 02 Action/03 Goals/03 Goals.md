@@ -1,6 +1,6 @@
 ---
 cssClasses: cards
-banner: https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/4k/original/10.jpg
+banner: "https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/4k/original/10.jpg"
 ---
 ⠀
 # Goals Dashboard

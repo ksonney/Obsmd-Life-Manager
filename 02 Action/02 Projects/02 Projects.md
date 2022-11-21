@@ -1,6 +1,6 @@
 ---
 cssClasses: cards
-banner: https://i.redd.it/qmm6mqqdw3k41.jpg
+banner: "https://i.redd.it/qmm6mqqdw3k41.jpg"
 banner_x: 0.5
 banner_y: 0.66466
 ---

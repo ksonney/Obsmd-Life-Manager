@@ -20,26 +20,21 @@
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "f87b28dfd4338253",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "64b037a330b673e8",
+            "id": "fccb89b97f6b0d35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Guide/Quick Start.md",
-                "mode": "preview",
+                "file": "03 Periodic/03 Monthly/03 Monthly.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Guide/Quick Start.md",
+                "file": "03 Periodic/03 Monthly/03 Monthly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,17 +168,17 @@
     "width": 501.5,
     "collapsed": true
   },
-  "active": "64b037a330b673e8",
+  "active": "fccb89b97f6b0d35",
   "lastOpenFiles": [
-    "06 Guide/Quick Start.md",
-    "README.md",
     "Home.md",
+    "03 Periodic/02 Weekly/02 Weekly.md",
+    "03 Periodic/01 Daily/01 Daily.md",
+    "02 Action/04 Values/04 Values.md",
+    "02 Action/03 Goals/03 Goals.md",
+    "02 Action/02 Projects/02 Projects.md",
     "02 Action/01 Tasks/01 Tasks.md",
-    "03 Periodic/01 Daily/2022/02-February/2022-02-28.md",
     "02 Action/02 Action.md",
-    "03 Periodic/01 Daily/2022/03-March/2022-03-01.md",
-    "04 Templates/Daily Template.md",
-    "06 Guide/Daily Note.md",
-    "02 Action/02 Projects/Build OLM Repo.md"
+    "02 Action/02 Projects/Make homemade pesto.md",
+    "02 Action/02 Projects/Completed Project.md"
   ]
 }

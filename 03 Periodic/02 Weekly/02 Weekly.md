@@ -1,5 +1,5 @@
 ---
-banner: https://wallpapercave.com/wp/wp4957445.jpg
+banner: "https://wallpapercave.com/wp/wp4957445.jpg"
 banner_x: 0.5
 banner_y: 0.6486
 ---

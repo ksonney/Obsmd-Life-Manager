@@ -1,12 +1,22 @@
 .obsidian-icon-folder-icon {
   border: 1px solid transparent;
-  padding: 2px 2px 2px 2px;
+  margin: 0px 4px 0px 0px;
   display: flex;
+  align-self: center;
   margin: auto 0;
+}
+
+.nav-folder-title,
+.nav-file-title {
+  align-items: center;
 }
 
 .obsidian-icon-folder-setting .setting-item-control .dropdown {
   margin-right: 12px;
+}
+
+.obsidian-icon-folder-setting input[type='color'] {
+  margin: 0 6px;
 }
 
 .obsidian-icon-folder-modal.prompt-results {
@@ -22,6 +32,15 @@
   color: gray;
   grid-column-start: 1;
   grid-column-end: 6;
+}
+
+@media (max-width: 640px) {
+  .obsidian-icon-folder-modal.prompt-results {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .prompt .obsidian-icon-folder-subheadline {
+    grid-column-end: 4;
+  }
 }
 
 .obsidian-icon-folder-modal.prompt-results .suggestion-item {
@@ -54,4 +73,19 @@
   height: 24px;
   color: currentColor;
   margin-bottom: 4px;
+}
+
+.obsidian-icon-folder-dragover {
+  position: relative;
+}
+
+.obsidian-icon-folder-dragover-el {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  color: var(--text-normal);
+  background-color: var(--background-secondary-alt);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

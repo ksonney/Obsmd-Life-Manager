@@ -1,7 +1,7 @@
 ---
 tag: dashboard
 cssClasses: row-alt, table-small, table-max
-banner: https://i.redd.it/ghbmrbnbhba81.png
+banner: "https://i.redd.it/ghbmrbnbhba81.png"
 banner_x: 0.5
 banner_y: 0.5
 ---

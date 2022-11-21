@@ -1,5 +1,5 @@
 ---
-banner: https://wallpapercave.com/wp/wp9583563.jpg
+banner: "https://wallpapercave.com/wp/wp9583563.jpg"
 ---
 ⠀
 # Daily Overview
